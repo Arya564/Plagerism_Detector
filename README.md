@@ -1,1 +1,1 @@
-# Plagerism_Detector
+# Plagiarism_Detector
