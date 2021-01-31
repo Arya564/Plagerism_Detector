@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/CHEATERS.dir/main.cpp.o CMakeFiles/CHEATERS.dir/helper.cpp.o  -o CHEATERS.exe -Wl,--out-implib,libCHEATERS.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

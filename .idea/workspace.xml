@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="CHEATERS" targetName="CHEATERS" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4dae17e-5a98-4efc-816a-0295de569cc0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1kfv1Hih6cAzNnS5Zyws9oocIAb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cmake-build-debug" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\School\fallsem2020vision\EE312\CHEATERS\cmake-build-debug" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CHEATERS" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="sm_doc_set" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CHEATERS" TARGET_NAME="CHEATERS" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CHEATERS" RUN_TARGET_NAME="CHEATERS">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4dae17e-5a98-4efc-816a-0295de569cc0" name="Default Changelist" comment="" />
+      <created>1606104246973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606104246973</updated>
+      <workItem from="1606104248703" duration="721000" />
+      <workItem from="1606105807735" duration="10385000" />
+      <workItem from="1606248472498" duration="3856000" />
+      <workItem from="1606326311482" duration="19258000" />
+      <workItem from="1606499072303" duration="78358000" />
+      <workItem from="1607549395729" duration="39000" />
+      <workItem from="1607630503587" duration="4000" />
+      <workItem from="1607709392176" duration="10000" />
+      <workItem from="1607969589333" duration="5000" />
+      <workItem from="1608052535932" duration="6000" />
+      <workItem from="1608227388137" duration="3000" />
+      <workItem from="1608229756482" duration="2000" />
+      <workItem from="1608746859381" duration="34000" />
+      <workItem from="1608916448705" duration="2000" />
+      <workItem from="1609090308698" duration="5000" />
+      <workItem from="1609188933929" duration="611000" />
+      <workItem from="1611343011653" duration="2633000" />
+      <workItem from="1611948929155" duration="607000" />
+      <workItem from="1612068937404" duration="568000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="225" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606246856096">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="225" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1606246856096" />
+    <state x="550" y="168" key="FileChooserDialogImpl" timestamp="1606105799337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606105799337" />
+    <state width="1493" height="158" key="GridCell.Tab.0.bottom" timestamp="1607463627899">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="158" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607463627899" />
+    <state width="1493" height="158" key="GridCell.Tab.0.center" timestamp="1607463627899">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="158" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607463627899" />
+    <state width="1493" height="158" key="GridCell.Tab.0.left" timestamp="1607463627899">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="158" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607463627899" />
+    <state width="1493" height="158" key="GridCell.Tab.0.right" timestamp="1607463627899">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="158" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607463627899" />
+    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel" timestamp="1606105803655">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel/0.0.1536.824@0.0.1536.824" timestamp="1606105803655" />
+    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel" timestamp="1606105803655">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel/0.0.1536.824@0.0.1536.824" timestamp="1606105803655" />
+    <state x="495" y="198" key="refactoring.ChangeSignatureDialog" timestamp="1606411233488">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="495" y="198" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1606411233488" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1607057722686">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1607057722686" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="hashArray" language="ObjectiveC" />
+        <watch expression="essayKey" language="ObjectiveC" />
+        <watch expression="arraySize" language="ObjectiveC" />
+        <watch expression="testMap" language="ObjectiveC" />
+        <watch expression="storeArray" language="ObjectiveC" />
+        <watch expression="collisionStorage" language="ObjectiveC" />
+        <watch expression="rowStorage" language="ObjectiveC" />
+        <watch expression="columnStorage" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
